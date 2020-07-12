@@ -45,10 +45,15 @@ Coding Test Online IDE compiler uses the[ API ](https://ide.judge0.com).
 ## HOW TO USE THIS PORTAL:
 
 step 1 : click the given [link](http://www.sliderskillbooster.com.s3-website.ap-south-1.amazonaws.com/)
+
 step 2 : click the IDE launcher button to view the Online IDE
+
 step 3 : you can select wthe language wgat you want
+
 step 4 : if the code doesn't have any error it will run properly and the output will be displayed in the right corner of the IDE.
+
 step 5 : after the above processif you want to change the language change it accordingly
+
 step 6 : after clear it you can code for the selected language
 
 ## Community
