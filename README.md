@@ -36,6 +36,15 @@ JavaScript is a client scripting language which is used for creating web pages. 
 
 Start learning [JAVASCRIPT now](https://docs.google.com/forms/d/e/1FAIpQLScj2jknRcdQzcVRVGAuTsf7ohYuLV52WRvHBIjvhc6ZIaqZaw/viewform?vc=0&c=0&w=1)
 
+## Our project contains:
+  * README.md – this file
+  *	Index.html – this file contains the website main page.
+  * CSS – this directory contains stylesheet used for the website.
+  *	JS – this directory contains jacascript/jquery code used for the website.
+  *	Images – this file contain background theme and logo for the website.
+  
+## API used for our project:
+Coding Test Online IDE compiler uses the[ API ](https://ide.judge0.com).
 
 
 ## Community
