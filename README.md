@@ -2,7 +2,7 @@
 An Online IDE
 
 
-# SkillBoostre IDE
+# SkillBooster IDE
 [click to view website](http://www.sliderskillbooster.com.s3-website.ap-south-1.amazonaws.com/)
 
 ## About
