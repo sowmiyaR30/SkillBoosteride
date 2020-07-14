@@ -3,9 +3,9 @@
 [click to view](http://www.sliderskillbooster.com.s3-website.ap-south-1.amazonaws.com/) front end design.
 
 ## About
-[**SkillBooster IDE**](https://ide.judge0.com) is a free and open-source online code editor that allows you to write and execute code from a rich set of languages. It's perfect for anybody who just wants to quickly write and run some code without opening a full-featured IDE on their computer. Moreover, it is also useful for teaching and learning or just trying out a new language.
+[**SkillBooster IDE**](http://www.skillboosteride.in.s3-website.ap-south-1.amazonaws.com/) is a free and open-source online code editor that allows you to write and execute code from a rich set of languages. It's perfect for anybody who just wants to quickly write and run some code without opening a full-featured IDE on their computer. Moreover, it is also useful for teaching and learning or just trying out a new language.
 
-SkillBooster IDE is using [**SkillBooster**](https://api.judge0.com) for executing user's source code.
+SkillBooster IDE is using [**SkillBooster**](http://www.skillboosteride.in.s3-website.ap-south-1.amazonaws.com/) for executing user's source code.
 
 enjoy and happy coding :)
 
