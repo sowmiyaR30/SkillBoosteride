@@ -37,7 +37,6 @@ Start learning [JAVASCRIPT now](https://docs.google.com/forms/d/e/1FAIpQLScj2jkn
   * README.md – this file
   *	Index.html – this file contains the website main page.
   * CSS – this directory contains stylesheet used for the website.
-  *	JS – this directory contains jacascript/jquery code used for the website.
   *	Images – this file contain background theme and logo for the website.
   
 ## API used for our project:
@@ -73,4 +72,4 @@ And also you can host your IDE in AWS s3 storage[click here](https://aws.amazon.
 
 
 ## Supporters
-Thanks a lot to my [Patron](https://www.google.com/search?gs_ssp=eJzj4tVP1zc0zEhOMsooq0wzYLRSNagwTkpMNTSxTLQ0TDOxsEwztgIKJSYaWyYbJBolphiaGpobeLGlViTm5lQCADF6Egc&q=examly&oq=examly&aqs=chrome.1.69i60j46j0j46j0l2j69i60l2.6568j0j7&sourceid=chrome&ie=UTF-8#).Thank you! ♥
+Thanks a lot to my [Patron].Thank you! ♥
